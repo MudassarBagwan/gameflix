@@ -1,0 +1,855 @@
+{
+ 
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6WNvb4uNdugQDlULhSsbb8ECmbk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MEhzGQfRyBI"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-23T18:41:22Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "The Lords of the Fallen - Announcement Trailer | PS5 Games",
+        "description": "Wishlist The Lords of the Fallen on PlayStation 5 - https://store.playstation.com/en-gb/concept/10002848 A vast world awaits in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MEhzGQfRyBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MEhzGQfRyBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MEhzGQfRyBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-23T18:41:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uRRZrCYWPw4FgL45JYIiYZleI60",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9Ph8D4MkGiI"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-09T20:15:00Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Forspoken - Cinematic Trailer | PS5 Games",
+        "description": "https://www.playstation.com/en-us/games/forspoken/ FIND YOUR FIGHT Forspoken releases worldwide on January 24, 2023.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Ph8D4MkGiI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Ph8D4MkGiI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Ph8D4MkGiI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-09T20:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X6dwTmYb5-0Tn1_rZPXNDY_TpGo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0gwsQvDGh4o"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-13T22:19:03Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Rise of the Ronin - State of Play Sep 2022 Reveal Trailer | PS5 Games",
+        "description": "It's darkest before dawn. In Rise of the Ronin you will explore an evolving world as you fight to forge a new era for Japan. You are ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0gwsQvDGh4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0gwsQvDGh4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0gwsQvDGh4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-13T22:19:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ipMLmyy6YXBn4lz23AI-ccCehmY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q0vNoRhuV_I"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-24T21:18:11Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Alan Wake 2 - Gameplay Reveal Trailer | PS5 Games",
+        "description": "Monsters wear many faces Alan Wake 2 releases on October 17, 2023! The long awaited sequel to the award-winning ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q0vNoRhuV_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q0vNoRhuV_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q0vNoRhuV_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-24T21:18:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WWz_dhjwma5NuV3XhcvY227gb2c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uyrdu1BODbM"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-12T04:00:31Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Final Fantasy XVI - Requiem Live Action Trailer | PS5 Games",
+        "description": "As the melody of fate guides him will Clive rise above his dangerous journey of revenge? FATE WILL FALL. FINAL FANTASY XVI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uyrdu1BODbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uyrdu1BODbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uyrdu1BODbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-12T04:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LXX36aM-PiSpTSpvgO_OF0du7Zo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CpFL1Ib77hE"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-12T18:00:06Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Avatar: Frontiers of Pandora - Official Game Overview Trailer | PS5 Games",
+        "description": "Watch the Game Overview Trailer of Avatar: Frontiers of Pandora a first-person action-adventure game set in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CpFL1Ib77hE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CpFL1Ib77hE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CpFL1Ib77hE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-12T18:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V4MYXNOMVQPO3Tvi4XP5uk1u2Vg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oceLRiqQsko"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-23T18:20:11Z",
+        "channelId": "UCbu2SsF-Or3Rsn3NxqODImw",
+        "title": "The Lords of the Fallen Official Announcement Trailer | gamescom ONL 2022",
+        "description": "Check out the announcement trailer for The Lords of the Fallen, which was showcased during gamescom Opening Night Live ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oceLRiqQsko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oceLRiqQsko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oceLRiqQsko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GameSpot",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-23T18:20:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "riRn_PHPkxkhtXKx-WaTnBYowiY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qsHzacjEhLw"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-24T21:14:40Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Immortals of Aveum - Official Gameplay Trailer | PS5 Games",
+        "description": "Summon your power to defeat daunting enemies and towering beasts in #ImmortalsOfAveum. It's you against a tyrant's army.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qsHzacjEhLw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qsHzacjEhLw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qsHzacjEhLw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-24T21:14:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8O6MdAxhUIQ4H2rfxzeeVWmnWs0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x4CEYXUXQ6U"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-03T08:00:21Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Flashback 2 - Jungle Trailer | PS5 &amp; PS4 Games",
+        "description": "https://store.playstation.com/en-us/concept/10005443 Immerse yourself in the disturbing jungle of Titan in Flashback 2, available ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x4CEYXUXQ6U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x4CEYXUXQ6U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x4CEYXUXQ6U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-03T08:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ptVyxdjTDSBYF2fUBqkGl4RXQG8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EZr1HXkEahs"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-24T21:15:02Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Phantom Blade Zero - Announce Trailer | PS5 Games",
+        "description": "Check out the world premiere of Phantom Blade Zero, a new Action RPG featuring deep and dark art style, fast paced combat, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EZr1HXkEahs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EZr1HXkEahs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EZr1HXkEahs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-24T21:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "znm0RL6fKA592zSRiajSJO9-pIA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XIcY7DQ_P6I"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-06T02:30:24Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Naraka: Bladepoint - Announcement Trailer | PS5 Games",
+        "description": "https://store.playstation.com/concept/10004405 Nothing can stop you and your squad. Fight and claim the right to the Mask of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XIcY7DQ_P6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XIcY7DQ_P6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XIcY7DQ_P6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-06T02:30:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pHxJPyybXdxEKCTkPd8VEvsCXQc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YCJfUVfDCm4"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-13T13:39:33Z",
+        "channelId": "UCds7m6MSkHspbrIexUXX9QQ",
+        "title": "Avatar: Frontiers of Pandora - Official Game Overview Trailer | PS5 Games",
+        "description": "Watch the Game Overview Trailer of Avatar: Frontiers of Pandora a first-person action-adventure game set in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YCJfUVfDCm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YCJfUVfDCm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YCJfUVfDCm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation Canada",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-13T13:39:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vS1e4xH4MFe-tIQ5daLsghWXh0g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JBWYOQYMjWM"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-15T16:00:16Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Immortals of Aveum - Official Reveal Trailer | PS5 Games",
+        "description": "https://www.playstation.com/en-us/games/immortals-of-aveum/ Summon your power, stop the Everwar, save the realms.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JBWYOQYMjWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JBWYOQYMjWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JBWYOQYMjWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-15T16:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QJNV8MJy_fdRL4LO9dswQFeL5QU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pX1KE7mIRDE"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T15:00:39Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Chrono Odyssey - Gameplay Reveal | PS5 Games",
+        "description": "Chrono Odyssey, next-generation open-world MMORPG, will come to PS5! #PS5 #ps5games #ChronoOdyssey #MMORPG ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pX1KE7mIRDE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pX1KE7mIRDE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pX1KE7mIRDE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T15:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dU6rbSqKe12tfl_rV02zTSBMZJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MHvMaUH-3TM"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-14T22:00:08Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Wo Long: Fallen Dynasty -  Action Trailer | PS5 &amp; PS4 Games",
+        "description": "https://store.playstation.com/en-us/concept/10004116 Take on the demon-plagued Three Kingdoms and overcome the odds of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MHvMaUH-3TM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MHvMaUH-3TM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MHvMaUH-3TM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-14T22:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wqJEpN5K094Cm5L-7RRZkiEAdAI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0-cxAGBM00c"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-24T20:24:11Z",
+        "channelId": "UCbu2SsF-Or3Rsn3NxqODImw",
+        "title": "Phantom Blade 0 Announcement Trailer | PlayStation Showcase 2023",
+        "description": "Phantom Blade 0 was revealed today as part of the PlayStation Showcase. Check out the world, combat, and more. #playstation ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0-cxAGBM00c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0-cxAGBM00c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0-cxAGBM00c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GameSpot",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-24T20:24:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1TsGpynxqiGxoZXDInpH6ohNf0s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FTIlOhBmBMo"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-06T18:30:17Z",
+        "channelId": "UCUnRn1f78foyP26XGkRfWsA",
+        "title": "NARAKA: BLADEPOINT FREE TO PLAY &amp; PS5 Announcement Trailer | JULY 13",
+        "description": "Nothing can stop you and your squad. Fight and claim the right to the Mask of Immortality in the melee focused Battle Royale ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FTIlOhBmBMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FTIlOhBmBMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FTIlOhBmBMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GameSpot Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-06T18:30:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QOal83w47Xqp5iVOZg6FarE4F7A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "difL_diHo2o"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-12T17:09:07Z",
+        "channelId": "UC0KU8F9jJqSLS11LRXvFWmg",
+        "title": "Avatar: Frontiers of Pandora – Official Game Overview Trailer | Ubisoft Forward",
+        "description": "Watch the Game Overview Trailer of Avatar: Frontiers of Pandora a first-person action-adventure game set in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/difL_diHo2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/difL_diHo2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/difL_diHo2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ubisoft",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-12T17:09:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DnF3RmyRO1c6kip7Sf2wtEO3nbU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mNP3ztvNBFI"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-13T16:00:10Z",
+        "channelId": "UC6jHNEMFHIjW0zLZGj969vA",
+        "title": "Immortals of Aveum – Official Reveal Trailer",
+        "description": "Summon your power, stop the Everwar, save the realms. Immortals of Aveum™ is a groundbreaking new single-player, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mNP3ztvNBFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mNP3ztvNBFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mNP3ztvNBFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Immortals of Aveum",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-13T16:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lTgWuIf9OZlEozGoS3j2IdpLZ0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sSRzMIK6gE4"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-10T19:00:19Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "The Bookwalker: Thief of Tales - Cinematic Trailer | PS5 &amp; PS4 Games",
+        "description": "Your journey into fictional worlds of treachery and wonder begins on June 22nd! The Bookwalker: Thief of Tales is a narrative ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sSRzMIK6gE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sSRzMIK6gE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sSRzMIK6gE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-10T19:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0YetHqx9xaBUtXiakoKXnwP-ED8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZOk3fj5ujNM"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-09T15:00:15Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Sackboy: A Big Adventure - Story Trailer | PS5",
+        "description": "https://www.playstation.com/games/sackboy-a-big-adventure/?emcid=or-1s-412983 Prepare to take Sackboy on an epic 3D ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZOk3fj5ujNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZOk3fj5ujNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZOk3fj5ujNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-09T15:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yve_BJWeFzp3kvWvsfrg6xU-pUM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uw_Lskv6ZjQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-23T21:15:02Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Lords of the Fallen - Gameplay Trailer | PS5 Games",
+        "description": "https://store.playstation.com/en-us/product/UP4321-PPSA07064_00-0068820881444019 Pre-order Lords of the Fallen on PS5 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uw_Lskv6ZjQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uw_Lskv6ZjQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uw_Lskv6ZjQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-23T21:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aHUWPaUF5hCIi7zvpZzAt-I3D9c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k6b4dY6LmDI"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-10T22:00:30Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "The Precinct - Announcement Trailer | PS5 Games",
+        "description": "Averno City, 1983. Gangs rule the streets and your father lies restless in his grave. Clean up the city, uncover the truth, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k6b4dY6LmDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k6b4dY6LmDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k6b4dY6LmDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-10T22:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T9IsOiMn76xnm9Ss41SArDTm8BE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nvPPggQ-pHs"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-09T16:45:03Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Pacific Drive - Drive, Survive, Repeat - Gameplay Trailer | PS5 Games",
+        "description": "In this first loook at the run-based driving survival adventure of Pacific Drive, you'll face supernatural dangers on expeditions out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nvPPggQ-pHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nvPPggQ-pHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nvPPggQ-pHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-09T16:45:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rFXJiU9cX_FiENeM9uQJjVMTEpo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mzML2y-3y20"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-15T16:31:44Z",
+        "channelId": "UCds7m6MSkHspbrIexUXX9QQ",
+        "title": "Immortals of Aveum - Official Reveal Trailer | PS5 Games",
+        "description": "https://www.playstation.com/en-ca/games/immortals-of-aveum/ Summon your power, stop the Everwar, save the realms.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mzML2y-3y20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mzML2y-3y20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mzML2y-3y20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation Canada",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-15T16:31:44Z"
+      }
+    }
+  ]
+}

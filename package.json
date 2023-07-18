@@ -1,0 +1,25 @@
+{
+  "name": "gameflix",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@magic-ext/oauth": "^12.4.1",
+    "@magic-sdk/admin": "^2.0.0",
+    "classnames": "^2.3.2",
+    "cookie": "^0.5.0",
+    "framer-motion": "^10.12.18",
+    "jose": "^4.14.4",
+    "jsonwebtoken": "^9.0.1",
+    "magic-sdk": "^18.4.1",
+    "next": "13.4.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-modal": "^3.16.1"
+  }
+}
